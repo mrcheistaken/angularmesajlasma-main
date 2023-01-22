@@ -5,9 +5,9 @@ BU proje Angular + Firebase kullanılarak yapıldı [Angular CLI](https://github
 
 # Terminal ekranında
 önce <br><br/>
- `npm i` yazın ki node_modules kurulsun.
+ `npm i` yazın ki node_modules kurulsun. <br><br/>
  daha sonra 
-`npm install firebase @angular/fire`
- son olarak
+`npm install firebase @angular/fire`<br><br/>
+ son olarak <br><br/>
  `ng s -o` yazdığınız gibi açılır . `http://localhost:4200/`. yazarak da ulaşabilirsiniz tarayıcınızdan
 
